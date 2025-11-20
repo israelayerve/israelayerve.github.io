@@ -7,7 +7,7 @@ body {
     width: 630px;   
     height: 540px;  
 
-    background-image: url('imagen/mem.jpg'); 
+    background-image: url('mem.jpg'); 
     background-size: cover; 
     background-position: center;
 
@@ -44,7 +44,7 @@ h1 {
 
 
 .red-piece {
-    background-image: url('imagen/DRAKE.png'); 
+    background-image: url('DRAKE.png'); 
     background-size: cover; 
     background-position: center;
     background-color: rgba(255, 0, 0, 0.596);
@@ -53,7 +53,7 @@ h1 {
 }
 
 .yellow-piece {
-    background-image: url('imagen/PIKA.jpeg'); 
+    background-image: url('PIKA.jpeg'); 
     background-size: cover; 
     background-position: center;
     background-color: rgba(251, 255, 0, 0.438);
@@ -130,5 +130,6 @@ h1 {
 #resetBtn:hover {
     transform: scale(1.05);
 }
+
 
 
